@@ -2,6 +2,8 @@
 
 A responsive portfolio and storefront website built for an independent artist.
 
+**Live site:** https://montyjack.com
+
 The site includes:
 
 - Artwork gallery and filtering
